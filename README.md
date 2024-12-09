@@ -2,7 +2,9 @@
 R code for the article "Network meta-analysis of time-to-event endpoints with individual participant data using restricted mean survival time regression"
 
 `simulation results.R`: This file contains R codes for generating simulation data and results (saved in `sim_out.RData` and `sim_res.RData`)
+
 `figures for simulation.R`: This file contains R codes for generating all figures for the simulation study
+
 `tables for simulation.R`: This file contains R codes for generating all tables for the simulation study
 
 source files:
